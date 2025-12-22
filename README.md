@@ -16,7 +16,7 @@ I work in the Developer Tools team focusing on Java, Kubernetes, and AI tooling.
 
 **Some** of the projects I actively maintain in my free time:
 
-- [Electronim](https://github.com/manusa/electronim) - Multi-account IM client
+- [ElectronIM](https://github.com/manusa/electronim) - Multi-account IM client
 - [YAKD](https://github.com/manusa/yakd) - Yet Another Kubernetes Dashboard
 - [Helm Java](https://github.com/manusa/helm-java) - Helm client library for Java
 - [Podman MCP Server](https://github.com/manusa/podman-mcp-server) - AI tooling for Podman
@@ -43,10 +43,10 @@ The best way to reach me is via [LinkedIn DM](https://linkedin.com/in/marcnuri).
 #### :pencil: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Boosting My Developer Productivity with AI in 2025](https://blog.marcnuri.com/boosting-developer-productivity-ai-2025)
+- [Boosting My Developer Productivity with AI in 2025](https://blog.marcnuri.com/boosting-developer-productivity-ai-2025)<br>
   How I restructured my software development workflow with asynchronous AI coding agents to dramatically boost developer productivity in 2025.
-- [Black Box vs White Box Testing: When to Use Each Approach](https://blog.marcnuri.com/blackbox-whitebox-testing-comparison)
+- [Black Box vs White Box Testing: When to Use Each Approach](https://blog.marcnuri.com/blackbox-whitebox-testing-comparison)<br>
   Discover key differences between blackbox and whitebox testing, and why blackbox should be your default for robust, maintainable test suites.
-- [Fabric8 Kubernetes Client 7.4 is now available!](https://blog.marcnuri.com/fabric8-kubernetes-client-7-4)
+- [Fabric8 Kubernetes Client 7.4 is now available!](https://blog.marcnuri.com/fabric8-kubernetes-client-7-4)<br>
   Fabric8 Kubernetes Client 7.4 is available! Check out the major changes and learn how you can contribute.
 <!-- BLOG-POST-LIST:END -->

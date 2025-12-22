@@ -14,7 +14,7 @@ curl -s "$FEED_URL" | \
     /<item>/ { in_item=1; title=""; link=""; desc="" }
     /<\/item>/ {
       if (in_item && printed < count) {
-        print "- [" title "](" link ")"
+        print "- [" title "](" link ")<br>"
         print "  " desc
         printed++
       }
