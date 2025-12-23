@@ -39,6 +39,7 @@ The best way to reach me is via [LinkedIn DM](https://linkedin.com/in/marcnuri).
 [![Bluesky](https://img.shields.io/badge/-Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/marcnuri.com)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://hachyderm.io/@MarcNuri)
 [![Instagram](https://img.shields.io/badge/-Instagram-61362c?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/marcnuri/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/MarcNuri)
 
 #### :pencil: Latest blog posts
 
