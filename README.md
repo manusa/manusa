@@ -44,10 +44,10 @@ The best way to reach me is via [LinkedIn DM](https://linkedin.com/in/marcnuri).
 #### :pencil: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Synology DS224+: How to upgrade hard drives in RAID 1](https://blog.marcnuri.com/synology-nas-ds224-hard-drive-upgrade-raid1)<br>
+  Step-by-step guide to upgrade hard drives on a Synology DS224+ NAS configured with RAID 1, increasing storage capacity without data loss.
 - [Fabric8 Kubernetes Client 7.5 is now available!](https://blog.marcnuri.com/fabric8-kubernetes-client-7-5)<br>
   Fabric8 Kubernetes Client 7.5 is available! Check out the major changes and learn how you can contribute.
 - [Boosting My Developer Productivity with AI in 2025](https://blog.marcnuri.com/boosting-developer-productivity-ai-2025)<br>
   How I restructured my software development workflow with asynchronous AI coding agents to dramatically boost developer productivity in 2025.
-- [Black Box vs White Box Testing: When to Use Each Approach](https://blog.marcnuri.com/blackbox-whitebox-testing-comparison)<br>
-  Discover key differences between blackbox and whitebox testing, and why blackbox should be your default for robust, maintainable test suites.
 <!-- BLOG-POST-LIST:END -->
