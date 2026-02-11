@@ -44,10 +44,10 @@ The best way to reach me is via [LinkedIn DM](https://linkedin.com/in/marcnuri).
 #### :pencil: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eclipse JKube 1.19 is now available!](https://blog.marcnuri.com/eclipse-jkube-1-19)<br>
+  Eclipse JKube 1.19 is available! Check out the major changes and learn how you can contribute.
 - [2025 Year in Review: The Year of AI](https://blog.marcnuri.com/2025-year-in-review-the-year-of-ai)<br>
   Personal reflections on 2025, my sixth year as a Red Hatter, and the year AI transformed my developer workflow.
 - [Synology DS224+: How to upgrade hard drives in RAID 1](https://blog.marcnuri.com/synology-nas-ds224-hard-drive-upgrade-raid1)<br>
   Step-by-step guide to upgrade hard drives on a Synology DS224+ NAS configured with RAID 1, increasing storage capacity without data loss.
-- [Fabric8 Kubernetes Client 7.5 is now available!](https://blog.marcnuri.com/fabric8-kubernetes-client-7-5)<br>
-  Fabric8 Kubernetes Client 7.5 is available! Check out the major changes and learn how you can contribute.
 <!-- BLOG-POST-LIST:END -->
