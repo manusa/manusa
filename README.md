@@ -44,10 +44,10 @@ The best way to reach me is via [LinkedIn DM](https://linkedin.com/in/marcnuri).
 #### :pencil: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fabric8 Kubernetes Client 7.6 is now available!](https://blog.marcnuri.com/fabric8-kubernetes-client-7-6)<br>
+  Fabric8 Kubernetes Client 7.6 is available! Check out the major changes and learn how you can contribute.
 - [AI Coding Agent Dashboard: Orchestrating Claude Code Across Devices](https://blog.marcnuri.com/ai-coding-agent-dashboard)<br>
   Learn how I built a real-time dashboard to monitor and orchestrate multiple AI coding agents running in parallel across projects and devices.
 - [Eclipse JKube 1.19 is now available!](https://blog.marcnuri.com/eclipse-jkube-1-19)<br>
   Eclipse JKube 1.19 is available! Check out the major changes and learn how you can contribute.
-- [2025 Year in Review: The Year of AI](https://blog.marcnuri.com/2025-year-in-review-the-year-of-ai)<br>
-  Personal reflections on 2025, my sixth year as a Red Hatter, and the year AI transformed my developer workflow.
 <!-- BLOG-POST-LIST:END -->
