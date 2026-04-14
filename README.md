@@ -44,10 +44,10 @@ The best way to reach me is via [LinkedIn DM](https://linkedin.com/in/marcnuri).
 #### :pencil: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Promoted to Senior Principal Software Engineer at Red Hat](https://blog.marcnuri.com/promoted-senior-principal-software-engineer-red-hat)<br>
+  Promoted to Senior Principal Software Engineer at Red Hat. Reflections on the Kubernetes MCP Server, AI-assisted development, and the people behind it.
 - [Fabric8 Kubernetes Client 7.6 is now available!](https://blog.marcnuri.com/fabric8-kubernetes-client-7-6)<br>
   Fabric8 Kubernetes Client 7.6 is available! Check out the major changes and learn how you can contribute.
 - [AI Coding Agent Dashboard: Orchestrating Claude Code Across Devices](https://blog.marcnuri.com/ai-coding-agent-dashboard)<br>
   Learn how I built a real-time dashboard to monitor and orchestrate multiple AI coding agents running in parallel across projects and devices.
-- [Eclipse JKube 1.19 is now available!](https://blog.marcnuri.com/eclipse-jkube-1-19)<br>
-  Eclipse JKube 1.19 is available! Check out the major changes and learn how you can contribute.
 <!-- BLOG-POST-LIST:END -->
