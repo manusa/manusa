@@ -1,6 +1,6 @@
 ### Hi there! :wave:
 
-I'm Marc, a Principal Software Engineer at [Red Hat](https://blog.marcnuri.com/tag/red-hat) based in Valencia, Spain.
+I'm Marc, a Senior Principal Software Engineer at [Red Hat](https://blog.marcnuri.com/tag/red-hat) based in Valencia, Spain.
 
 I'm passionate about [Kubernetes](https://blog.marcnuri.com/tag/kubernetes), [Java](https://blog.marcnuri.com/tag/java), [AI](https://blog.marcnuri.com/category/ai), and building developer tools that make [cloud-native](https://blog.marcnuri.com/category/cloud-native) development easier.
 
