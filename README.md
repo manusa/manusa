@@ -44,10 +44,10 @@ The best way to reach me is via [LinkedIn DM](https://linkedin.com/in/marcnuri).
 #### :pencil: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fabric8 Kubernetes Client 7.7 is now available!](https://blog.marcnuri.com/fabric8-kubernetes-client-7-7)<br>
+  Fabric8 Kubernetes Client 7.7 is available! Check out the major changes and learn how you can contribute.
 - [Superpowers: The Claude Code Skills Framework Shipped as Markdown](https://blog.marcnuri.com/superpowers-claude-code-skills-framework)<br>
   Superpowers is the Claude Code skills framework that ships TDD, planning, debugging, and verification as markdown across six AI coding agents.
 - [The Missing Levels of AI-Assisted Development: From Agent Chaos to Orchestration](https://blog.marcnuri.com/missing-levels-ai-assisted-development)<br>
   Steve Yegge's 8 levels of AI-assisted development skip the hardest climb: the five missing rungs between juggling coding agents and your own orchestrator.
-- [Promoted to Senior Principal Software Engineer at Red Hat](https://blog.marcnuri.com/promoted-senior-principal-software-engineer-red-hat)<br>
-  Promoted to Senior Principal Software Engineer at Red Hat. Reflections on the Kubernetes MCP Server, AI-assisted development, and the people behind it.
 <!-- BLOG-POST-LIST:END -->
