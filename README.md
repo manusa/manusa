@@ -44,10 +44,10 @@ The best way to reach me is via [LinkedIn DM](https://linkedin.com/in/marcnuri).
 #### :pencil: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Project, Agent, Person: The Missing Axis of AI Coding Tools](https://blog.marcnuri.com/project-agent-person-centric-ai-coding-tools)<br>
+  Everyone ranks AI coding tools by how autonomous they are. The axis that predicts the gaps is what they're built around: the project, the agent, or you.
 - [Fabric8 Kubernetes Client 7.8 is now available!](https://blog.marcnuri.com/fabric8-kubernetes-client-7-8)<br>
   Fabric8 Kubernetes Client 7.8 is available! Check out the major changes and learn how you can contribute.
 - [Fabric8 Kubernetes Client 7.7 is now available!](https://blog.marcnuri.com/fabric8-kubernetes-client-7-7)<br>
   Fabric8 Kubernetes Client 7.7 is available! Check out the major changes and learn how you can contribute.
-- [Superpowers: The Claude Code Skills Framework Shipped as Markdown](https://blog.marcnuri.com/superpowers-claude-code-skills-framework)<br>
-  Superpowers is the Claude Code skills framework that ships TDD, planning, debugging, and verification as markdown across six AI coding agents.
 <!-- BLOG-POST-LIST:END -->
