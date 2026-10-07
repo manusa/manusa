@@ -1,21 +1,23 @@
 ### Hi there! :wave:
 
-I'm Marc, a Senior Principal Software Engineer at [Red Hat](https://blog.marcnuri.com/tag/red-hat) based in Valencia, Spain.
+I'm Marc Nuri, a Senior Principal Software Engineer at [Red Hat](https://blog.marcnuri.com/tag/red-hat) based in Valencia, Spain.
 
-I'm passionate about [Kubernetes](https://blog.marcnuri.com/tag/kubernetes), [Java](https://blog.marcnuri.com/tag/java), [AI](https://blog.marcnuri.com/category/ai), and building developer tools that make [cloud-native](https://blog.marcnuri.com/category/cloud-native) development easier.
+I build and secure the free and open source software (FOSS) that developers and AI agents depend on.
 
 #### :hammer_and_wrench: Work at Red Hat
 
-I work in the Developer Tools team focusing on Java, Kubernetes, and AI tooling.
+I build free and open source tools at the intersection of [Kubernetes](https://blog.marcnuri.com/tag/kubernetes), [Java](https://blog.marcnuri.com/tag/java), and [AI](https://blog.marcnuri.com/category/ai).
+I also work on software supply chain security: how AI agents and engineers can find, fix, and verify vulnerabilities in open source libraries at scale.
 
-- [Kubernetes MCP Server](https://github.com/containers/kubernetes-mcp-server) - AI tooling for Kubernetes
-- [Fabric8 Kubernetes Client](https://github.com/fabric8io/kubernetes-client) - Java client for Kubernetes & OpenShift
-- [Eclipse JKube](https://github.com/eclipse-jkube/jkube) - Build and deploy Java applications on Kubernetes
+- [Kubernetes MCP Server](https://github.com/containers/kubernetes-mcp-server) (creator) - Model Context Protocol server that lets AI agents work with Kubernetes and OpenShift
+- [Fabric8 Kubernetes Client](https://github.com/fabric8io/kubernetes-client) (lead maintainer) - Java client for Kubernetes & OpenShift
+- [Eclipse JKube](https://github.com/eclipse-jkube/jkube) (project lead) - Build and deploy Java applications on Kubernetes
 
 #### :rocket: Side projects
 
 **Some** of the projects I actively maintain in my free time:
 
+- [ai-beacon](https://github.com/manusa/ai-beacon) - Dashboard to monitor and orchestrate AI coding agents across devices
 - [ElectronIM](https://github.com/manusa/electronim) - Multi-account IM client
 - [YAKD](https://github.com/manusa/yakd) - Yet Another Kubernetes Dashboard
 - [Helm Java](https://github.com/manusa/helm-java) - Helm client library for Java
@@ -26,8 +28,8 @@ Check out [all my repositories](https://github.com/manusa?tab=repositories) for 
 
 #### :book: Writing & Speaking
 
-- [Blog](https://blog.marcnuri.com) - Kubernetes, Java, AI, and developer productivity
-- [Speaking](https://sessionize.com/marc-nuri/) - Conference talks
+- [Blog](https://blog.marcnuri.com) - Kubernetes, Java, AI, and developer productivity ([about me](https://blog.marcnuri.com/author/marcnuri))
+- [Speaking](https://sessionize.com/marc-nuri/) - Conference talks (DevBcn Best Speaker 2024, Most Original Speaker 2025), with the [slides](https://presentations.marcnuri.com)
 - [Full Stack Quarkus and React](https://www.packtpub.com/product/full-stack-quarkus-and-react/9781800562738) - My book on building cloud-native apps
 
 #### :mailbox: Connect
@@ -35,11 +37,11 @@ Check out [all my repositories](https://github.com/manusa?tab=repositories) for 
 The best way to reach me is via [LinkedIn DM](https://linkedin.com/in/marcnuri).
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://linkedin.com/in/marcnuri)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/MarcNuri)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/MarcNuri)
 [![Bluesky](https://img.shields.io/badge/-Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/marcnuri.com)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://hachyderm.io/@MarcNuri)
 [![Instagram](https://img.shields.io/badge/-Instagram-61362c?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/marcnuri/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/MarcNuri)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@MarcNuri)
 
 #### :pencil: Latest blog posts
 
